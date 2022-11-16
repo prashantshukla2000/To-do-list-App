@@ -8,6 +8,9 @@
   },
   "author": "Prashant Bhushan Shukla",
   "license": "ISC",
+  "engines": {
+    "node": "18.12.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.1",
     "ejs": "^3.1.8",

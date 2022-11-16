@@ -127,7 +127,10 @@ List.findOneAndUpdate({name: listName},{$pull: {items:{_id: checkedItemId}}},fun
 app.get("/about",function(req,res){
 res.render("aboutme");
 });
-
-app.listen(3000, function() {
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
+app.listen(port, function() {
   console.log("Server is started on Port 3000");
 });
