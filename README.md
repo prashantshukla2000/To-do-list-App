@@ -5,6 +5,7 @@ The features of the To-do-list Application are->
                -->We have some default items on the home list.
                -->if all the default list items from home-list are deleted they reappear.
                -->We can custom create as many list New-lists we like like Work/school based on our choice.
+	           -->Ex->http://localhost:3000/work  or http://localhost:3000/School
                -->Lodash is used so Work or work or WORK ae the same file.
                -->We have the feature to Add/delete item from our custom list too.
                -->After we have pressed the checkbox ,the item is crossed then removed.
