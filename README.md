@@ -9,7 +9,7 @@ The features of the To-do-list Application are->
                -->We have the feature to Add/delete item from our custom list too.
                -->After we have pressed the checkbox ,the item is crossed then removed.
                -->All the lists have the same template using ejs.
-			   -->Application uses Mongodb -Atlas so can be acesses from anywhere.
-			   -->Application can be acessed using any device.
+               -->Application uses Mongodb -Atlas so can be acesses from anywhere.
+	           -->Application can be acessed using any device.
                
                
